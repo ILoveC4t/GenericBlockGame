@@ -2,7 +2,7 @@ const COLORS = {
     1: '#00fbff',
     2: '#0800ff',
     3: '#ffaa00',
-    4: '#00fbff',
+    4: '#ffee00',
     5: '#ff000d',
     6: '#ff000d',
     7: '#b700ff',
